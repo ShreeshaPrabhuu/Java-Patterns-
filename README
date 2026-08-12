@@ -1,0 +1,53 @@
+Java Pattern Programs
+
+A collection of basic Java programs focused on **loops, nested loops, conditional statements, and pattern printing**.
+
+Current Program
+
+The current program prints a **hollow rectangle pattern** using `*`.
+
+Example Input
+
+5 7
+
+Output
+
+
+*******
+*     *
+*     *
+*     *
+*******
+
+Concepts Used
+
+* Java
+* `Scanner` for user input
+* `for` loops
+* Nested `for` loops
+* `if-else` conditions
+* Logical OR (`||`)
+* Pattern printing
+
+How to Run
+
+Compile the program:
+
+bash
+javac Main.java
+
+
+Run it:
+
+bash
+java Main
+
+
+Enter the number of rows and columns when prompted.
+
+
+Purpose
+
+This project is created for practicing **Java fundamentals and problem-solving**, especially nested loops and pattern-based questions.
+
+
